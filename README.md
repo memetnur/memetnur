@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @memetnur
 - 👀 I’m interested in health, plants and coffee
--  I’m currently learning data science
+- 💻 I’m currently learning data science
 - 💞️ I’m looking to collaborate on digitalization projects in education
 
 <!---
