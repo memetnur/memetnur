@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @memetnur
-- 👀 I’m interested in health, plants and coffee
-- 💻 I’m currently learning data science
-- 💞️ I’m looking to collaborate on digitalization projects in education
+- 👋 Hi, I’m Nuri from Switzerland!
+- 👀 I’m interested in nature, mountain and flowers!
+- 💻 I’m currently working in the field of STEAM (science, technology, engineering, arts and mathematics) 
+- 💞️ Lets collaborate! 
 
 <!---
 memetnur/memetnur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
