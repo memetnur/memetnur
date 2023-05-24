@@ -9,7 +9,7 @@
   - [Data Science](https://github.com/memetnur/data-science) 
 
 - <b>Data Analyst Projects (SQL, MySQL)</b>
-  - [Data Analyst](https://github.com/memetnur/data-science) 
+  - [Data Analyst](https://github.com/memetnur/data-analysis) 
 
 
 # 📊 GitHub Stats:
