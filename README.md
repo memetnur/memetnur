@@ -1,4 +1,4 @@
-<h1>Hello, I'm Nuri and I am a<br/><a href="https://github.com/memetnur">Software Developer</a> and a <a href="https://www.linkedin.com/in/nuri-memeti-53773811a/">Data Analyst</a> </h1>
+<h1>Hello, I'm Nur and I am a<br/><a href="https://github.com/memetnur">Machine Learning Engineer</a>
 
 <h2> :computer: Software Development Projects:</h2>
 
